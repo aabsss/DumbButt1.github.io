@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spotify.png"><SubTexture name="spotify idle0000" x="0" y="0" width="231" height="130" frameX="0" frameY="0" frameWidth="231" frameHeight="130" />
+<SubTexture name="spotify idle0001" x="0" y="0" width="231" height="130" frameX="0" frameY="0" frameWidth="231" frameHeight="130" />
+<SubTexture name="spotify idle0002" x="0" y="0" width="231" height="130" frameX="0" frameY="0" frameWidth="231" frameHeight="130" />
+</TextureAtlas>
