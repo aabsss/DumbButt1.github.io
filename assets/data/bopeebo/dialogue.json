@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "bop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "hello! I am Clippy! The Microsoft Virtual Assistant",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "clippy2"
+		},
+		{
+			"expression": "talk",
+			"text": "bep bop ba ba biii",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! It seems like you're new to Windows! Allow me to help you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "clippy2"
+		},
+		{
+			"expression": "talk",
+			"text": "bep boop ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Now before I show you around, what is your name?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "clippy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep skee!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great! Hello Boyfriend! And you are?..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Girlfriend! I know we have strange names but thats how 'him' named us."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "him? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bo skdoo a-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BOYFRIEND!! Lets not confuse this guy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Did Boyfriend say Ninjamuffin? Who's that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyway! Clippy, Boyfriend is here to challenge you to a rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh that sounds delightful! It sounds like a nice way too relax too!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep!"
+		}
+	]
+}

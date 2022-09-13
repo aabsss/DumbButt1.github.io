@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "clippy2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not bad!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep! bep depo beep bo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another rap battle? Sure! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ep bo doo!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bodo bop bo..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hm? what did you say? are we talking smack now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ehhhh beop bo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well i dont like that type of talk. anyway lets do another song!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippy2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Try to keep up!"
+		}
+	]
+}

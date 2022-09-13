@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "bop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "hello! I am Clippy! The Microsoft Virtual Assistant",
+			"boxState": "normal",
+			"portrait": "clippy2",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep bop ba ba biii",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! It seems like you're new to Windows! Allow me to help you!",
+			"boxState": "normal",
+			"portrait": "clippy2",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Before I show you around I just want to ask, what are your names?",
+			"boxState": "normal",
+			"portrait": "clippy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep beop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "and I am GF!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh what cute names! Anyway let me show you MS Paint-",
+			"boxState": "normal",
+			"portrait": "clippy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Bep bop! bef bepen ped beep beeeep pep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "A rap battle huh? I guess I am up for the task! I know a couple songs!",
+			"boxState": "normal",
+			"portrait": "clippy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Bring it on! Boyfriend! ",
+			"boxState": "normal",
+			"portrait": "clippy2",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep!!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

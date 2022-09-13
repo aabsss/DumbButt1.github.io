@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "beep do ba!!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "haha, you did well!",
+			"boxState": "normal",
+			"portrait": "clippy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "WARNING: SOMETHING UNWANTED HAS BEEN DETECTED",
+			"boxState": "angry",
+			"portrait": "alert",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "PLEASE RESTART YOUR PC BEFORE FURTHER HARM IS DONE",
+			"boxState": "angry",
+			"portrait": "alert",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "uhhh what was that?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "It seems that some virus has past through the firewall!",
+			"boxState": "normal",
+			"portrait": "clippy",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEAP?? Bepo bee boi do ba??",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I don't know how to fix it maybe if i do a soft rese-",
+			"boxState": "normal",
+			"portrait": "clippy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "ZZZZZZZZZZZZZETTTSTSBCBWSICVBSCISIDUCKFYUCJSUFCBNSNC ",
+			"boxState": "angry",
+			"portrait": "clippybonzi",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "WELCOME TO MICROSOFFFF--- BONZIFUN.exe HAS BEEN INITIATED",
+			"boxState": "normal",
+			"portrait": "clippybonzi",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "be?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "clippybonzi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GIRLRFRIEND.xml HAS BEEN DELETED"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEE???"
+		},
+		{
+			"expression": "talk",
+			"text": "NOW PLAYING: GORILLA_WARFARE.mp3",
+			"boxState": "normal",
+			"portrait": "clippybonzi",
+			"speed": 0.05
+		}
+	]
+}
