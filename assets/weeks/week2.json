@@ -1,0 +1,39 @@
+{
+	"storyName": "Microsoft Office Assistant",
+	"hideFreeplay": false,
+	"weekBackground": "windows",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"After Sunset",
+			"clippy",
+			[
+				135,
+				120,
+				175
+			]
+		],
+		[
+			"Ron Phenomenon",
+			"clippymad",
+			[
+				135,
+				120,
+				55
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"clippy",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 95"
+}

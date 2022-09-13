@@ -1,0 +1,48 @@
+{
+	"storyName": "Microsoft Office Assistant",
+	"hideFreeplay": false,
+	"weekBackground": "windows",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"clippy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Startup",
+			"clippy",
+			[
+				135,
+				120,
+				175
+			]
+		],
+		[
+			"Auto Correct",
+			"clippy",
+			[
+				135,
+				120,
+				175
+			]
+		],
+		[
+			"Gorilla Warfare",
+			"clippyinsane",
+			[
+				60,
+				60,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 95"
+}
